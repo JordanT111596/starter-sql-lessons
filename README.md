@@ -1,2 +1,4 @@
 # starter-sql-lessons
-Lessons for beginning SQL learning
+These are lessons for beginning the SQL learning journey
+
+Make sure you have MySQL Workbench or Sequel Pro or something of the sort
